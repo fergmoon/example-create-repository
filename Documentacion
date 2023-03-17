@@ -1,0 +1,8 @@
+<h1></h1> Títulos
+<br> Saltos de Línea en el texto
+<input> Caja para ingresar datos
+<button> Botón para ejecutar
+id= identificador para el tipo de dato que debe ingresar
+onclick = evento (al picar u oprimir hace una accion) 
+let => variables que pueden cambiar de valor
+typeof => Dice que tipo de dato hay dentro de ese campo.
